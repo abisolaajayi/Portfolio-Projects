@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard Overview](Screenshots/dashboard-overview.png)
+
 # Makeup Booking Analytics Dashboard
 
 This project was built using SQL Server and Power BI to analyze a makeup booking business.
