@@ -1,6 +1,4 @@
-## Dashboard Preview
-
-![Dashboard Preview](Screenshots/Screenshot 2026-04-29 141505.png)
+![Dashboard](Screenshots/dashboard-preview.png)
 
 # Makeup Booking Analytics Dashboard
 
