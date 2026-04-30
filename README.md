@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+### Overview Dashboard
+![Overview](screenshot/dashboard-preview.png)
+
 # Makeup Booking Analytics Dashboard
 
 ## Overview
