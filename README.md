@@ -1,29 +1,55 @@
-![Dashboard](Screenshots/dashboard-preview.png)
-
 # Makeup Booking Analytics Dashboard
 
-This project was built using SQL Server and Power BI to analyze a makeup booking business.
+## Overview
+This project is an interactive analytics dashboard built using SQL Server and Power BI to analyze a makeup booking business. It focuses on clients, appointments, revenue, and service performance to generate business insights.
 
-## Features
-
-* Client management system
-* Appointment tracking
-* Payment and revenue analysis
-* KPI dashboard
-* Service profitability insights
-* Top client analysis
+---
 
 ## Tools Used
+- SQL Server (Data extraction & analysis)
+- Power BI (Data visualization & dashboard creation)
+- DAX (Calculated measures & KPIs)
+- CSV exports (Data preparation)
 
-* SQL Server
-* Power BI
-* DAX
-* CSV data exports
+---
+
+## Key Features
+- Client management analysis
+- Appointment tracking system
+- Revenue and payment analysis
+- KPI dashboard creation
+- Service profitability insights
+- Top client identification
+
+---
 
 ## Dashboard Insights
+- Total Revenue generated
+- Total number of clients
+- Revenue by service type
+- Payment method breakdown
+- Top spending clients
+- Service performance analysis
 
-* Total Revenue
-* Total Clients
-* Revenue by Service
-* Payment Breakdown
-* Top Spending Clients
+---
+
+
+## Project Structure
+- data/ → Raw or exported dataset
+- powerbi/ → Power BI dashboard file (.pbix)
+- screenshots/ → Dashboard images
+- README.md → Project documentation
+
+---
+
+## Project Goal
+To analyze business performance for a makeup booking system and identify revenue trends, client behavior, and service profitability to support data-driven decision-making.
+
+---
+
+## Skills Demonstrated
+- SQL data analysis
+- Data visualization in Power BI
+- KPI and business metric tracking
+- Dashboard design and storytelling
+- Business performance analysis
