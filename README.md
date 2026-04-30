@@ -5,55 +5,57 @@
 
 # Makeup Booking Analytics Dashboard
 
-## Overview
-This project is an interactive analytics dashboard built using SQL Server and Power BI to analyze a makeup booking business. It focuses on clients, appointments, revenue, and service performance to generate business insights.
+## Project Overview
+This project is an end-to-end business analytics dashboard built using SQL Server and Power BI. It analyzes a makeup booking system to evaluate client behavior, revenue performance, service demand, and overall business profitability.
+
+The goal is to transform raw booking and payment data into actionable insights that support better business decisions.
 
 ---
 
-## Tools Used
-- SQL Server (Data extraction & analysis)
-- Power BI (Data visualization & dashboard creation)
-- DAX (Calculated measures & KPIs)
-- CSV exports (Data preparation)
+## Tools & Technologies
+- SQL Server – Data extraction, cleaning, and analysis
+- Power BI – Data visualization and dashboard development
+- DAX – KPI calculations and measures
+- CSV exports – Data handling and preparation
 
 ---
 
-## Key Features
-- Client management analysis
-- Appointment tracking system
-- Revenue and payment analysis
-- KPI dashboard creation
+## Business Questions Answered
+- Who are the highest-value clients?
+- Which services generate the most revenue?
+- How does revenue vary across payment methods?
+- What is the overall business performance?
+- Which services are most profitable?
+
+---
+
+## Dashboard Features
+- Total Revenue and Client KPIs
+- Appointment and booking analysis
+- Revenue breakdown by service type
+- Payment method distribution
+- Top spending clients analysis
 - Service profitability insights
-- Top client identification
 
-
-## Dashboard Insights
-- Total Revenue generated
-- Total number of clients
-- Revenue by service type
-- Payment method breakdown
-- Top spending clients
-- Service performance analysis
 
 ---
 
-
-## Project Structure
-- data/ → Raw or exported dataset
-- powerbi/ → Power BI dashboard file (.pbix)
-- screenshots/ → Dashboard images
-- README.md → Project documentation
+## Key Insights
+- Identified top revenue-generating clients
+- Highlighted most profitable services
+- Analyzed payment trends across customers
+- Provided visibility into business performance patterns
 
 ---
 
-## Project Goal
-To analyze business performance for a makeup booking system and identify revenue trends, client behavior, and service profitability to support data-driven decision-making.
+## Project Objective
+To demonstrate how data analytics can be used to improve decision-making in a service-based business by identifying revenue drivers and customer behavior patterns.
 
 ---
 
 ## Skills Demonstrated
-- SQL data analysis
-- Data visualization in Power BI
-- KPI and business metric tracking
+- Data analysis using SQL
+- Business intelligence reporting
+- KPI development using DAX
 - Dashboard design and storytelling
-- Business performance analysis
+- Data-driven decision making
