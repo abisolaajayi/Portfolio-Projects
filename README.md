@@ -21,7 +21,6 @@ This project is an interactive analytics dashboard built using SQL Server and Po
 - Service profitability insights
 - Top client identification
 
----
 
 ## Dashboard Insights
 - Total Revenue generated
